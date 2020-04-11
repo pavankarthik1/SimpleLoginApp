@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175423627246",
+    "firebase_url": "https://myapplication-e5ecc.firebaseio.com",
+    "project_id": "myapplication-e5ecc",
+    "storage_bucket": "myapplication-e5ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175423627246:android:3f575e453025d898b2f8ff",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175423627246-2ua97tg50boohgvtqqafcqk7k3ui3l0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Lc5rmGjVDPXkh04N9kAlS609hfNTsqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175423627246-2ua97tg50boohgvtqqafcqk7k3ui3l0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
